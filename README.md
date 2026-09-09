@@ -278,7 +278,7 @@ Contributions are welcome. Areas of interest include:
 
 ## Contribution
 
-Contributed by: Adarsh Lodu
+Contributed by: Adarsh 
 
 ---
 
